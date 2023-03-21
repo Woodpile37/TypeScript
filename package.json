@@ -81,7 +81,7 @@
         "mocha": "latest",
         "mocha-fivemat-progress-reporter": "latest",
         "ms": "^2.1.3",
-        "node-fetch": "^2.6.1",
+        "node-fetch": "^3.3.0",
         "prex": "^0.4.3",
         "q": "latest",
         "source-map-support": "latest",
