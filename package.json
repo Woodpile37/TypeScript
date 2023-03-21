@@ -63,7 +63,7 @@
         "diff": "^4.0.2",
         "eslint": "7.12.1",
         "eslint-formatter-autolinkable-stylish": "1.1.4",
-        "eslint-plugin-import": "2.22.1",
+        "eslint-plugin-import": "2.27.5",
         "eslint-plugin-jsdoc": "30.7.6",
         "eslint-plugin-no-null": "1.0.2",
         "fancy-log": "latest",
